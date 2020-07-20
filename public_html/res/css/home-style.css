@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2020, 12:57:02 PM
+    Author     : rktirtho
+*/
+.header{
+    background: #155724;
+}
+.heading-text{
+    top: 30%;
+    right: 50px;
+    color: #fff
+
+}
+.profile-image{
+    height: auto;
+    width: 200px;
+    border: 2px solid #fff; 
+    border-radius: 50%;
+/*    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: central;
+    margin-top: 75px*/
+
+}
+
+.sammary h2{
+    border-bottom: 3px solid;
+}
