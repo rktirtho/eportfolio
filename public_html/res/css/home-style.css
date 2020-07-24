@@ -32,3 +32,9 @@ and open the template in the editor.
 .sammary h2{
     border-bottom: 3px solid;
 }
+
+.work-image{
+    height: 200px; 
+    width: 200px;
+    border: 2px solid #000;
+}
